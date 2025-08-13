@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda environment
+/mlops-env/
+
+# Model Artifacts (we will manage them via CI/CD)
+*.pkl
